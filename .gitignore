@@ -1,0 +1,23 @@
+# Virtual environments
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+.env.local
+
+# Node
+node_modules/
+dist/
+.replit-artifact/
+
+# Caches and logs
+repo_cache.json
+*.log
+
+# Archives
+*.zip
+*.tar.gz
